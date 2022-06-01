@@ -1,0 +1,7 @@
+sex,range,kcal,protein(g),fat(g),carbohydrate(g)
+male,day,2700,65,54,1350
+female,day,2050,50,41,1000
+male,1of3,900,21,18,450
+female,1of3,683,16,13,333
+male,week,18900,455,378,9450
+female,week,14350,350,287,7000
