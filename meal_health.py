@@ -4,7 +4,7 @@ import streamlit as st
 
 st.title('食事採点アプリ')
 
-df = pd.read_csv('/Users/yilee/Classes/DAAM/data/standard.csv')
+df = pd.read_csv('csv/standard.csv')
 st.markdown('**各栄養素の一食当たりの推奨摂取量**')
 st.dataframe(df)
 
